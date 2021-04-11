@@ -15,7 +15,7 @@ body {
 
 h1 {
     color: hotpink;
-    text-shadow: 2px 8px 8px rgb(197, 4, 100);
+    /* text-shadow: 2px 8px 8px rgb(197, 4, 100); */
     -webkit-text-stroke-width: 1px;
     letter-spacing: 4.5px;
     -webkit-text-stroke-color: rgb(233, 37, 135);
