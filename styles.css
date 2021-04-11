@@ -1,7 +1,7 @@
-/* @font-face {
+@font-face {
     font-family: 'Cursive';
     src: url(./fonts/leckerlione-regular.ttf);
-} */
+}
 
 body {
     background-color: plum;
@@ -12,22 +12,16 @@ body {
     background-image: url(./table.jpg);
 }
 
-.bg-image{
-    
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
-    background-repeat:no-repeat;
-    background-size:contain;
-}
 
 h1 {
     color: hotpink;
     text-shadow: 2px 8px 8px rgb(197, 4, 100);
-    -webkit-text-stroke-width: 0.5px;
-    letter-spacing: 3px;
+    -webkit-text-stroke-width: 1px;
+    letter-spacing: 4.5px;
     -webkit-text-stroke-color: rgb(233, 37, 135);
     text-align: center;
     font-family: 'Sriracha', cursive;
+    font-family: 'Cursive';
     font-size: 6em;
 }
  p {
