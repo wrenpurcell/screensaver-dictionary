@@ -25,6 +25,8 @@ let dictionary = [
     definition: 'pleasantly juicy, rich in desirable'
   }
 ]
+
+
 //create p element
 let wordH1 = $('<h1></h1>');
 //append p element to div
